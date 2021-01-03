@@ -1,6 +1,6 @@
 ﻿/**
  * EmployeeController.cs
- * @Author : Group 7 - Deepthi Warrier, Mayuree Binjolkar, Sumitha Ravindran
+ * @Author :Deepthi Warrier
  * @Date: 09/Feb/2020
  * The Controller class for the Employee. The following REST services are provided by the controller.
  * GET - Route("employeedetails/") - Employees Details - Gets all the Employees from the Employee Table
