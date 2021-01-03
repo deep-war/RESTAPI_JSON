@@ -1,6 +1,6 @@
 ﻿/**
  * Employee.cs
- * @Author : Group 7 - Deepthi Warrier, Mayuree Binjolkar, Sumitha Ravindran
+ * @Author : Deepthi Warrier
  * @Date: 09/Feb/2020
  * The Model class for the Employee. 
  * The properties thats used to update all the columns of the 
