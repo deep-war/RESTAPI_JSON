@@ -19,7 +19,7 @@ The following features are implemented:
 Running the curl commands from gitbash:
 =======================================
 Open Gitbash and run the following commands for each of the operations
-
+```sh
 1. GET:
 curl -i -X GET --header 'Accept: application/json' 'http://*AWS_URL*/employeedetails'
 
@@ -31,5 +31,6 @@ curl -i -X PUT -H 'Accept: application/json' 'http://*AWS_URL*/employee/6/123456
 
 4. DELETE:
 curl -i -X DELETE --header 'Accept: application/json' 'http://*AWS_URL*/employee/delete/6'
+```
 
 ###### *Please contact deepthi.warrier@gmail.com for more info*
