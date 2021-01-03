@@ -33,4 +33,4 @@ curl -i -X PUT -H 'Accept: application/json' 'http://*AWS_URL*/employee/6/123456
 curl -i -X DELETE --header 'Accept: application/json' 'http://*AWS_URL*/employee/delete/6'
 ```
 
-###### *Please contact deepthi.warrier@gmail.com for more info*
+###### *Please contact deepthi.warrier@gmail.com for more info on the code
